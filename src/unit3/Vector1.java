@@ -13,6 +13,8 @@ public class Vector1 {
         vt.add(2,"forth");
         System.out.println(vt.capacity());
         System.out.println(vt.size());;
+        System.out.println(vt.remove(0));
+        System.out.println(vt);
     }
 
 }
